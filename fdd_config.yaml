@@ -1,0 +1,11 @@
+# List of directories to keep
+dir_list_a :  # NO trailing slash  - 
+  - "~/Directory_A_Path"
+
+# List of directories to search for duplicates
+dir_list_b : # NO trailing slash
+
+  - "~/Directory_B_Path"
+
+# Output directory --- NO trailing slash
+fdd_results : "~/FDD_RESULTS" 
